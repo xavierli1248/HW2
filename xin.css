@@ -1,0 +1,12 @@
+body {background-color: DodgerBlue}
+#left {text-align:left;}
+.photo_text {font-size: 20pt; font-family: Times New Roman; padding-left: 110px; color: purple}
+#body {font-size: 16pt; font-family: Times New Roman;}
+#resume {font-size: 12pt; font-family: Times New Roman; text-align: center}
+.resume_content {text-align: left; text-justify: inter-word}
+#resume_header {text-align: center}
+.title {font-size: 20pt; font-weight: bold}
+#border1 {width: 1180px; border: 15px solid black; padding: 10px; margin: 5px}
+#border2 {width: 1180px; border: 15px solid yellow; padding: 10px; margin: 5px}
+#border3 {width: 1180px; border: 15px solid purple; padding: 10px; margin: 5px}
+#border4 {width: 1180px; border: 15px solid chartreuse; padding: 10px; margin: 5px}
